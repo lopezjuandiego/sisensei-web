@@ -1,0 +1,5 @@
+*:Zone.Identifier
+*.Zone.Identifier
+uploads/
+*.pptx
+*.dc.html
